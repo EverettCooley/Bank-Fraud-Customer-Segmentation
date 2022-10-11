@@ -1,4 +1,4 @@
-# Bank-Fraud-Segmentation
+# Bank-Fraud-Customer-Segmentation
 
 The goal of this project is to detect bank fraud in a large dataset of indivual banking accounts.
 
