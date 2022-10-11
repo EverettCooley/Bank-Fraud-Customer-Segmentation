@@ -8,4 +8,4 @@ The goal of this project is to detect bank fraud in a large dataset of indivual 
 3. Reevaluating steps 1 through 2 based on accuracy resulting precision, recall and accuracy
 
 ### Result
-The results include 87% accuracy, 82% percision and 89% recall.
+The results include 87% accuracy, 82% percision and 89% recall while ran on the customer-banking-dataset.
